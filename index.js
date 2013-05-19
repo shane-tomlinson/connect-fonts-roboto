@@ -4,7 +4,7 @@ module.exports = {
   "root": path.join(__dirname, "fonts"),
 
   // where to find a locale's fonts in the fonts directory
-  "locale-to-subdirs": { 
+  "locale-to-subdirs": {
   },
 
   // what font types are enabled and what are the extensions of
@@ -24,7 +24,7 @@ module.exports = {
       },
       "roboto-blackitalic": {
         "fontFamily": "Roboto",
-        "fontStyle": "normal",
+        "fontStyle": "italic",
         "fontWeight": "400",
         "local": [ "Roboto Black Italic", "Roboto-BlackItalic" ]
       },
@@ -42,13 +42,13 @@ module.exports = {
       },
       "roboto-boldcondenseditalic": {
         "fontFamily": "Roboto",
-        "fontStyle": "normal",
+        "fontStyle": "italic",
         "fontWeight": "700",
         "local": [ "Roboto Bold Condensed Italic", "Roboto-BoldCondensedItalic" ]
       },
       "roboto-bolditalic": {
         "fontFamily": "Roboto",
-        "fontStyle": "normal",
+        "fontStyle": "italic",
         "fontWeight": "700",
         "local": [ "Roboto Bold Italic", "Roboto-BoldItalic" ]
       },
@@ -60,13 +60,13 @@ module.exports = {
       },
       "roboto-condenseditalic": {
         "fontFamily": "Roboto",
-        "fontStyle": "normal",
+        "fontStyle": "italic",
         "fontWeight": "400",
         "local": [ "Roboto Condensed Italic", "Roboto-CondensedItalic" ]
       },
       "roboto-italic": {
         "fontFamily": "Roboto",
-        "fontStyle": "normal",
+        "fontStyle": "italic",
         "fontWeight": "400",
         "local": [ "Roboto Italic", "Roboto-Italic" ]
       },
@@ -78,7 +78,7 @@ module.exports = {
       },
       "roboto-lightitalic": {
         "fontFamily": "Roboto",
-        "fontStyle": "normal",
+        "fontStyle": "italic",
         "fontWeight": "300",
         "local": [ "Roboto Light Italic", "Roboto-LightItalic" ]
       },
@@ -90,7 +90,7 @@ module.exports = {
       },
       "roboto-mediumitalic": {
         "fontFamily": "Roboto",
-        "fontStyle": "normal",
+        "fontStyle": "italic",
         "fontWeight": "500",
         "local": [ "Roboto Medium Italic", "Roboto-MediumItalic" ]
       },
@@ -108,7 +108,7 @@ module.exports = {
       },
       "roboto-thinitalic": {
         "fontFamily": "Roboto",
-        "fontStyle": "normal",
+        "fontStyle": "italic",
         "fontWeight": "250",
         "local": [ "Roboto Thin Italic", "Roboto-ThinItalic" ]
       }
