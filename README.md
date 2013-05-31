@@ -29,18 +29,14 @@ const font_pack  = require("connect-fonts-roboto");
 
 Multiple fonts from the family can be included by using a comma separated list of fonts:
 ```html
-<link href="/roboto-black,roboto-blackitalic,roboto-bold,roboto-boldcondensed,roboto-boldcondenseditalic,roboto-bolditalic,roboto-condensed,roboto-condenseditalic,roboto-italic,roboto-light,roboto-lightitalic,roboto-medium,roboto-mediumitalic,roboto-regular,roboto-thin,roboto-thinitalic/fonts.css" type="text/css" rel="stylesheet"/ >
+<link href="/roboto-black,roboto-blackitalic,roboto-bold,roboto-bolditalic,roboto-italic,roboto-light,roboto-lightitalic,roboto-medium,roboto-mediumitalic,roboto-regular,roboto-thin,roboto-thinitalic/fonts.css" type="text/css" rel="stylesheet"/ >
 ```
 
 Available fonts:
 * roboto-black
 * roboto-blackitalic
 * roboto-bold
-* roboto-boldcondensed
-* roboto-boldcondenseditalic
 * roboto-bolditalic
-* roboto-condensed
-* roboto-condenseditalic
 * roboto-italic
 * roboto-light
 * roboto-lightitalic
@@ -69,7 +65,7 @@ Available subsets:
 ## Font Info
 Roboto
 
-* Copyright: Font data copyright Google 2011
+* Copyright: Font data copyright Google 2012
 * Trademark: Roboto is a trademark of Google.
 * Designer: Google
 * Designer URL: Christian Robertson 
@@ -96,6 +92,7 @@ Software: Licenced under version 2.0 of the MPL
 
   https://www.mozilla.org/MPL/
 
+Fonts: Licensed under version 2.0 of the Apache
 
-  
+  http://www.apache.org/licenses/LICENSE-2.0
 

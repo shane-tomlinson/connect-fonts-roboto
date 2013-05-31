@@ -2,7 +2,7 @@
   "Author": "Shane Tomlinson <shane@shanetomlinson.com> (https://shanetomlinson.com)",
   "name": "connect-fonts-roboto",
   "description": "Roboto font pack for connect-fonts",
-  "keywords": ["font", "font-face", "CSS", "connect-fonts", "roboto-black", "roboto-blackitalic", "roboto-bold", "roboto-boldcondensed", "roboto-boldcondenseditalic", "roboto-bolditalic", "roboto-condensed", "roboto-condenseditalic", "roboto-italic", "roboto-light", "roboto-lightitalic", "roboto-medium", "roboto-mediumitalic", "roboto-regular", "roboto-thin", "roboto-thinitalic"],
+  "keywords": ["font", "font-face", "CSS", "connect-fonts", "roboto-black", "roboto-blackitalic", "roboto-bold", "roboto-bolditalic", "roboto-italic", "roboto-light", "roboto-lightitalic", "roboto-medium", "roboto-mediumitalic", "roboto-regular", "roboto-thin", "roboto-thinitalic"],
   "homepage": "https://github.com/shane-tomlinson/connect-fonts-roboto",
   "licenses": [
     {
@@ -12,15 +12,15 @@
     },
     {
       "covers": "fonts",
-      "type": "",
-      "url": ""
+      "type": "Apache-2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0"
     }
   ],
   "repository": {
     "type": "git",
     "url": "https://github.com/shane-tomlinson/connect-fonts-roboto"
   },
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "node": ">= 0.4.7"
   },
