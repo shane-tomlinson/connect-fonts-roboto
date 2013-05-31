@@ -3,6 +3,36 @@ const path = require("path");
 module.exports = {
   "root": path.join(__dirname, "fonts"),
 
+  // Package info
+  "package": {
+    "name": "connect-fonts-roboto",
+    "homepage": "https://github.com/shane-tomlinson/connect-fonts-roboto",
+    "repourl": "https://github.com/shane-tomlinson/connect-fonts-roboto",
+    "bugsurl": false
+  },
+
+  // Package author info
+  "author": {
+    "name": "Shane Tomlinson",
+    "emails": "shane@shanetomlinson.com,stomlinson@mozilla.com,set117@yahoo.com",
+    "urls": "https://shanetomlinson.com",
+    "githubs": "https://github.com/shane-tomlinson,https://github.com/stomlinson",
+    "twitter": "@shane_tomlinson"
+  },
+
+
+  // Common font information
+  "font_common": {
+    "names": "roboto-black,roboto-blackitalic,roboto-bold,roboto-boldcondensed,roboto-boldcondenseditalic,roboto-bolditalic,roboto-condensed,roboto-condenseditalic,roboto-italic,roboto-light,roboto-lightitalic,roboto-medium,roboto-mediumitalic,roboto-regular,roboto-thin,roboto-thinitalic",
+    "family": "Roboto",
+    "copyright": "Font data copyright Google 2011",
+    "trademark": "Roboto is a trademark of Google.",
+    "url_vendor": "Google.com",
+    "designer": "Google",
+    "url_designer": "Christian Robertson"
+  },
+
+
   // where to find a locale's fonts in the fonts directory
   "locale-to-subdirs": {
   },
@@ -19,13 +49,13 @@ module.exports = {
       "roboto-black": {
         "fontFamily": "Roboto",
         "fontStyle": "normal",
-        "fontWeight": "400",
+        "fontWeight": "800",
         "local": [ "Roboto Black", "Roboto-Black" ]
       },
       "roboto-blackitalic": {
         "fontFamily": "Roboto",
         "fontStyle": "italic",
-        "fontWeight": "400",
+        "fontWeight": "800",
         "local": [ "Roboto Black Italic", "Roboto-BlackItalic" ]
       },
       "roboto-bold": {
