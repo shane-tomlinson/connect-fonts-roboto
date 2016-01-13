@@ -117,13 +117,13 @@ module.exports = {
       "roboto-thin": {
         "fontFamily": "Roboto",
         "fontStyle": "normal",
-        "fontWeight": "250",
+        "fontWeight": "200",
         "local": [ "Roboto Thin", "Roboto-Thin" ]
       },
       "roboto-thinitalic": {
         "fontFamily": "Roboto",
         "fontStyle": "italic",
-        "fontWeight": "250",
+        "fontWeight": "200",
         "local": [ "Roboto Thin Italic", "Roboto-ThinItalic" ]
       }
   }
