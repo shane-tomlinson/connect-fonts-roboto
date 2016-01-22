@@ -68,7 +68,7 @@ Roboto
 * Copyright: Font data copyright Google 2012
 * Trademark: Roboto is a trademark of Google.
 * Designer: Google
-* Designer URL: Christian Robertson 
+* Designer URL: Christian Robertson
 * Vendor URL: Google.com
 
 ## Development Info
@@ -84,7 +84,6 @@ Roboto
 * https://github.com/shane-tomlinson
 * https://github.com/stomlinson
 * @shane_tomlinson
-
 
 ## License
 
